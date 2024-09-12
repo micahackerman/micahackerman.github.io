@@ -5,3 +5,9 @@ h1 {
   body {
     background-color: antiquewhite;
   }
+#content {
+  color: blanchedalmond;
+  width: 800px;
+  margin-left:auto ;
+  margin-right: auto;
+}
